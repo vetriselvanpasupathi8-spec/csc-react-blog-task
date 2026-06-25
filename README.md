@@ -8,7 +8,7 @@ A responsive React blog application built as an internship technical task. It al
 - **Styling:** Tailwind CSS (v4) — Utilized for clean, responsive utility-first styling.
 - **Routing:** React Router v6 — Handles smooth, declarative navigation without full page reloads.
 
-## 🛠️ Installation & Setup Instructions
+##  Installation & Setup Instructions
 
 Follow these steps to run the project locally:
 

@@ -12,7 +12,8 @@ A responsive React blog application built as an internship technical task. It al
 
 Follow these steps to run the project locally:
 
-1. **Clone the repository:**
+1. **Open cmd:**
+2. **Clone the repository:**
 ```bash
    
 mkdir Internship-Task
